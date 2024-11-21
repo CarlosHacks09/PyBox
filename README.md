@@ -2,11 +2,11 @@
 
 ![1000169146](https://github.com/user-attachments/assets/2d8a571a-6bde-4fdd-a7e9-5ee68cdec4fd)
 
-A minimalist 3D graphics sandbox created with Python and Pygame. Currently features a colorful rotating cube animation with ambient background music.
+A minimalist 3D graphics sandbox created with Python and Pygame. Currently features only one animation with ambient background music.
 
 ## Features
 
-- Animated 3D cube with rainbow color cycling
+- Animated 3D bodies showcasing the power of OpenGL
 - Smooth rotation on multiple axes
 - Background music
 - Clean minimal interface
@@ -14,9 +14,9 @@ A minimalist 3D graphics sandbox created with Python and Pygame. Currently featu
 
 ## Controls
 
-- Click the "Cube" button to show the 3D cube animation
+- Click on the desired animation button to show the simulation.
 - Press `ESC` to:
-  - Return to main menu (when viewing cube)
+  - Return to main menu (when viewing animation)
   - Exit application (when in main menu)
 
 ## Requirements
@@ -42,19 +42,19 @@ python main.py
 
 ## Coming Soon
 
-- Additional 3D shapes and animations
+- Additional 3D shapes and even more animations
 - More interactive features
 - Extended configuration options
-- Advanced rendering capabilities
+- Advanced and higher resolution rendering capabilities
 
 ## Technical Details
 
 The project uses:
-- Pygame for rendering and window management
+- Pygame / OpenGL (modernGL) for rendering and window management
 - NumPy for 3D matrix transformations
 - HSV color space for rainbow effects
 - Custom button and text rendering systems
 
 ## License
 
-[Add your chosen license here]
+This project is licensed under the GPL v3.0 License. Additional assets are property of their respective creators and shouldn't be copied without authorization from them.
