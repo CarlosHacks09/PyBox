@@ -1,6 +1,6 @@
 # PyBox - 3D Python Sandbox
 
-
+![1000169146](https://github.com/user-attachments/assets/2d8a571a-6bde-4fdd-a7e9-5ee68cdec4fd)
 
 A minimalist 3D graphics sandbox created with Python and Pygame. Currently features a colorful rotating cube animation with ambient background music.
 
