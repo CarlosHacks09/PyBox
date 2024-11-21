@@ -34,8 +34,7 @@ numpy
 pip install pygame numpy
 ```
 
- in the project directory
-3. Run the application:
+3. In the project directory, run the application:
 ```sh
 python main.py
 ```
