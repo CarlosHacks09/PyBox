@@ -2,7 +2,7 @@
 
 ![1000169146](https://github.com/user-attachments/assets/2d8a571a-6bde-4fdd-a7e9-5ee68cdec4fd)
 
-A minimalist 3D graphics sandbox created with Python and Pygame. Currently features only one animation with ambient background music.
+A minimalist 3D graphics sandbox created with Python and Pygame. Currently features two animations with ambient background music.
 
 ## Features
 
